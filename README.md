@@ -20,4 +20,4 @@ Before using this tool, ensure you have the following installed/configured:
 
 1. Clone the repository:
  ```bash
- git clone https://github.com/your_username/flight-price-tracker.git
+ git clone https://github.com/your_username/flight-deals.git
