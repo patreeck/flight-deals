@@ -21,3 +21,15 @@ Before using this tool, ensure you have the following installed/configured:
 1. Clone the repository:
  ```bash
  git clone https://github.com/your_username/flight-deals.git
+
+**Add your keys** 
+
+
+FLIGHT_SEARCH_API_KEY = 'your_flight_search_api_key'
+
+TWILIO_ACCOUNT_SID = 'your_twilio_account_sid'
+
+TWILIO_AUTH_TOKEN = 'your_twilio_auth_token'
+
+TWILIO_PHONE_NUMBER = 'your_twilio_phone_number'
+
