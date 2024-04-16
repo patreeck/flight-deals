@@ -22,8 +22,7 @@ Before using this tool, ensure you have the following installed/configured:
  ```bash
  git clone https://github.com/your_username/flight-deals.git
 
-**Add your keys** 
-
+2. Add your keys:
 
 FLIGHT_SEARCH_API_KEY = 'your_flight_search_api_key'
 
